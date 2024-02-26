@@ -1,3 +1,8 @@
+# Rodando projeto
+- Na pasta do projeto abra o cmd e execute o seguinte comando: npm install
+- Execute o aplicativo rodando o seguinte comando: npm run dev
+- Abra seu navegador e acesse a url do aplicativo: http://localhost:5173/
+  
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
